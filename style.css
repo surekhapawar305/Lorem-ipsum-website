@@ -105,7 +105,7 @@ a{
 	padding: auto;
 }
 #showcase{
-	background: url('../HotelProject/heroimg.jpg.jpg')no-repeat center center/cover;
+	background: url('../HotelProject/heroimg.jpg.png')no-repeat center center/cover;
 	height: 650px;
 }
 #showcase .showcase-content{
